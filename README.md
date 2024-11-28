@@ -4,7 +4,7 @@ I'm a developer passionate about building useful digital solutions that make a d
 
 ## 🚀 About Me
 
-- 🌱 Currently improving my skills in PHP and CSS development.
+- 🌱 Currently improving my skills in Python and Javascript Develoment.
 - 💡 I enjoy developing intuitive, user-friendly web applications.
 - 🤝 Open to collaborating on projects related to sports tech, event management, and e-commerce.
 
