@@ -11,13 +11,13 @@ I'm a developer passionate about building useful digital solutions that make a d
 ## 🛠️ Tech Stack
 
 - **Languages**: HTML, CSS, JavaScript, Python, Bash
-- **Frameworks**: Tailwind, Bootstrap, Npm
+- **Frameworks**: Tailwind, Bootstrap
 - **Database**: MySQL
-- **Tools**: Github, VS Code, Linux, Adobe
+- **Tools**: Github, VS Code, Linux, Adobe, Npm
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/tsaqif-assajid)
+- [LinkedIn](https://www.linkedin.com/in/tsaqif-assajid/)
 - [Email](mailto:tsaqifu1895@gmail.com)
 
 Thanks for stopping by! 😊
