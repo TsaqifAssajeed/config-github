@@ -17,7 +17,7 @@ I'm a front and developer passionate about building useful digital solutions tha
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/tsaqif-assajid/)
+- [LinkedIn](https://www.linkedin.com/in/tsaqif-assajid-0a8168313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Email](mailto:tsaqifu1895@gmail.com)
 
 Thanks for stopping by! 😊
