@@ -11,8 +11,8 @@ I'm a front and developer passionate about building useful digital solutions tha
 ## 🛠️ Tech Stack
 
 - **Languages**: HTML, CSS, JavaScript, Python, Bash, PHP
-- **Frameworks**: Tailwind, Bootstrap, Vue
-- **Database**: MySQL
+- **Frameworks**: Tailwind, Bootstrap, React
+- **Database**: MySQL, CRUD
 - **Tools**: Github, VS Code, Linux, Adobe, Npm
 
 ## 🌐 Connect with Me
