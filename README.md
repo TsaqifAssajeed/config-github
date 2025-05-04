@@ -1,24 +1,24 @@
 # Hi there! 👋 I'm Tsaqif Assajid
 
-I'm a front and developer passionate about building useful digital solutions that make a difference. I love creating projects that are impactful and user-focused.
+I'm a developer passionate about building useful digital solutions that make a difference. I love creating projects that are impactful and user-focused.
 
 ## 🚀 About Me
 
-- 🌱 Currently improving my skills in Linux, Python, PHP, and Vue.
+- 🌱 Currently improving my skills in Linux, Python, PHP, and React.
 - 💡 I enjoy developing intuitive, user-friendly web applications.
 - 🤝 Open to collaborating on projects related to sports tech, linux, event management, and e-commerce.
 
 ## 🛠️ Tech Stack
 
-- **Languages**: HTML, CSS, JavaScript, Python, Bash, PHP
-- **Frameworks**: Tailwind, Bootstrap, React
+- **Languages**: HTML, CSS, JavaScript, Python, Bash, PHP, C++
+- **Frameworks**: Tailwind, Bootstrap, React, Next JS
 - **Database**: MySQL, CRUD
-- **Tools**: Github, VS Code, Linux, Adobe, Npm
+- **Tools**: Github, VS Code, Linux, Adobe, Npm, Ubuntu, Parrot OS, Paragon, Xammp, Canva
 
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/tsaqif-assajid-0a8168313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Email](mailto:tsaqifu1895@gmail.com)
+- [Email](mailto:tsaqifassajeed@gmail.com)
 
 Thanks for stopping by! 😊
 
